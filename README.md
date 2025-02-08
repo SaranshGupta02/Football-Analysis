@@ -27,4 +27,4 @@ To run this project, you need to have the following requirements installed:
 - Pandas
 
   ## Run 
-python main.py
+- python main.py
